@@ -1,0 +1,2 @@
+-Fichiers pour connexion a la base de donnees
+-Constantes de notre site

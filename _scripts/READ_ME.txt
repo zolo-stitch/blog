@@ -1,0 +1,3 @@
+-Faire des traitement PHP en un seul fichier sur une page
+-Si on a  besoin d'une requete Ajax et qu'on a besoin d'un script PHP on le mettra ici
+-Ou meme un systeme de cronsjob
